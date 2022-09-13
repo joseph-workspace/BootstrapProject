@@ -5,14 +5,41 @@
   width: 100%;
 }
 
-.icons i {
+.icons {
+  width: 100%;
+  height: 50vh;
+}
+.icons div i {
   color: white;
 }
-.icons span {
+.icons div span {
   color: white;
 }
-.icons p {
+.icons div p {
   color: white;
+}
+
+.logo #purple {
+  text-align: center;
+  font-size: 4em;
+}
+.logo #purple #white {
+  color: white;
+}
+.logo h1 {
+  display: inline;
+  text-align: center;
+  color: white;
+}
+
+.innerContainer div div h1 {
+  text-align: center;
+  color: white;
+}
+
+.iconParentFlex {
+  width: 95%;
+  height: 60vh;
 }
 
 /*# sourceMappingURL=style.css.map */
