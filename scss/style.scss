@@ -1,3 +1,18 @@
+$textColor: white;
 .backgroundPic {
     background-image: url('../images/computerSetup.jpeg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.icons {
+    i {
+        color: $textColor;
+    }
+    span {
+        color: $textColor;
+    }
+    p {
+        color: $textColor;
+    }
 }
