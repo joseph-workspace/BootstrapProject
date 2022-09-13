@@ -42,4 +42,16 @@
   height: 60vh;
 }
 
+.buttonBox {
+  width: 100%;
+  height: 15vh;
+}
+
+.buttonColor {
+  background-color: purple;
+  color: white;
+  border: 2px solid purple;
+  border-radius: 4%;
+}
+
 /*# sourceMappingURL=style.css.map */
