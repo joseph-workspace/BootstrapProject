@@ -1,4 +1,4 @@
-.backgroundPic {
+body {
   background-image: url("../images/computerSetup.jpeg");
   background-size: cover;
   height: 100vh;
@@ -43,12 +43,12 @@
 }
 
 .buttonBox {
-  width: 100%;
+  width: 25%;
   height: 15vh;
 }
 
 .buttonColor {
-  background-color: purple;
+  background-color: #48639C;
   color: white;
   border: 2px solid purple;
   border-radius: 3%;
