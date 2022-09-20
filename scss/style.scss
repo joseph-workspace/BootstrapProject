@@ -5,14 +5,12 @@ body {
     height: 100vh;
     width: 100%;
 }
-
 html {
     /* default font-size is 16px - this is set in the default browser stylesheet */ 
     font-size: 20px; 
     font-weight: 400; 
     line-height: 1.5; 
   } 
-  
   /* Increase all font sizes on mobile */ 
   @media (max-width: 767px) { 
     html { 
@@ -20,61 +18,16 @@ html {
       font-size: 25px; 
     } 
   }
-
-// .icons {
-//     width: 100%;
-//     height: 50vh;
-//     div {
-//         i {
-//             color: $textColor;
-//         }
-//         span {
-//             color: $textColor;
-//         }
-//         p {
-//             color: $textColor;
-//         }
-//     }
-// }
-// .logo {
-//     #purple {
-//         text-align: center;
-//         font-size: 4em;
-//         #white {
-//             // text-align: center;
-//             color: $textColor;
-//     }
-//     }
-//     h1 {
-//         display: inline;
-//         text-align: center;
-//         color: $textColor;
-//     }
-// }
-// .innerContainer {
-//     div {
-//         div {
-//             h1 {
-//                 text-align: center;
-//                 color: $textColor;
-//             }
-//         }
-//     }
-// }
-// .iconParentFlex {
-//     width: 95%;
-//     height: 60vh;
-// }
-// .buttonBox {
-//     width: 25%;
-//     height: 15vh;
-// }
-// .buttonColor {
-//     background-color: #48639C;
-//     color: $textColor;
-//     border: 2px solid purple;
-//     border-radius: 3%;
-//     position: absolute;
-//     bottom: 50%;
-//     left: 42%;
-// }
+.toolbar {
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    // height: 20vh;
+}
+.toolbar2 {
+    height: 8vh;
+}
+a, a:visited {
+    color: black;
+    text-decoration: none;
+}
