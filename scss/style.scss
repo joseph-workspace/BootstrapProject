@@ -5,60 +5,60 @@ body {
     height: 100vh;
     width: 100%;
 }
-.icons {
-    width: 100%;
-    height: 50vh;
-    div {
-        i {
-            color: $textColor;
-        }
-        span {
-            color: $textColor;
-        }
-        p {
-            color: $textColor;
-        }
-    }
-}
-.logo {
-    #purple {
-        text-align: center;
-        font-size: 4em;
-        #white {
-            // text-align: center;
-            color: $textColor;
-    }
-    }
-    h1 {
-        display: inline;
-        text-align: center;
-        color: $textColor;
-    }
-}
-.innerContainer {
-    div {
-        div {
-            h1 {
-                text-align: center;
-                color: $textColor;
-            }
-        }
-    }
-}
-.iconParentFlex {
-    width: 95%;
-    height: 60vh;
-}
-.buttonBox {
-    width: 25%;
-    height: 15vh;
-}
-.buttonColor {
-    background-color: #48639C;
-    color: $textColor;
-    border: 2px solid purple;
-    border-radius: 3%;
-    position: absolute;
-    bottom: 50%;
-    left: 42%;
-}
+// .icons {
+//     width: 100%;
+//     height: 50vh;
+//     div {
+//         i {
+//             color: $textColor;
+//         }
+//         span {
+//             color: $textColor;
+//         }
+//         p {
+//             color: $textColor;
+//         }
+//     }
+// }
+// .logo {
+//     #purple {
+//         text-align: center;
+//         font-size: 4em;
+//         #white {
+//             // text-align: center;
+//             color: $textColor;
+//     }
+//     }
+//     h1 {
+//         display: inline;
+//         text-align: center;
+//         color: $textColor;
+//     }
+// }
+// .innerContainer {
+//     div {
+//         div {
+//             h1 {
+//                 text-align: center;
+//                 color: $textColor;
+//             }
+//         }
+//     }
+// }
+// .iconParentFlex {
+//     width: 95%;
+//     height: 60vh;
+// }
+// .buttonBox {
+//     width: 25%;
+//     height: 15vh;
+// }
+// .buttonColor {
+//     background-color: #48639C;
+//     color: $textColor;
+//     border: 2px solid purple;
+//     border-radius: 3%;
+//     position: absolute;
+//     bottom: 50%;
+//     left: 42%;
+// }
